@@ -5,17 +5,17 @@ import MovieCard from './MovieCard';
 import './App.css';
 import SearchIcon from './search.svg';
 
-const API_URL='http://omdbapi.com?apikey=7ffcc27f';
+const API_URL='https://omdbapi.com?apikey=7ffcc27f';
 
-const movie1={
+// const movie1={
   
-    "Title": "The Amazing Spiderman 2 Webb Cut",
-    "Year": "2021",
-    "imdbID": "tt18351128",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzI0MmQyMzYtZDAzNi00ZWZiLWFjMTgtNzQwOTRjYTFlM2Y3XkEyXkFqcGc@._V1_SX300.jpg"
+//     "Title": "The Amazing Spiderman 2 Webb Cut",
+//     "Year": "2021",
+//     "imdbID": "tt18351128",
+//     "Type": "movie",
+//     "Poster": "https://m.media-amazon.com/images/M/MV5BNzI0MmQyMzYtZDAzNi00ZWZiLWFjMTgtNzQwOTRjYTFlM2Y3XkEyXkFqcGc@._V1_SX300.jpg"
 
-}
+// }
 
 const App=()=>{
 
